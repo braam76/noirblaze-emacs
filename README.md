@@ -16,7 +16,7 @@ by cloning the repository and adding it to your Emacs config.
 ;; but you can use any path you want.
 
 (add-to-list 'custom-theme-load-path (expand-file-name "~/.emacs.d/themes/"))
-(load-theme 'nord t)
+(load-theme 'noirblaze t)
 ```
 
 Worth to mention, than theme is oprtimized for basic language modes. In future I will improve theme for all modes and situations.
