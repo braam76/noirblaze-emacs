@@ -23,6 +23,12 @@ Worth to mention, than theme is oprtimized for basic language modes. In future I
 
 ---
 
+Supported modes
+- Basic font-lock faces
+- Dired (better foreground colors of directories)
+- ido-mode (file navigation in minibuffer with C-x C-f)
+---
+
 Some screenshots
 
 ![Screenshot From 2025-01-09 08-29-05](https://github.com/user-attachments/assets/faa2d70a-5226-4bf6-aa2b-077d59ef0c07)
